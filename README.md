@@ -30,10 +30,17 @@ git clone https://github.com/JuneOrg2020/PyTorchTest.git
 cd PyTorchTest
 ```
 
-2.  pip install
+3.  pip install
 ```terminal
 pip install -r requirements.txt
 ```
+
+4.  Flask起動
+```terminal
+python run.py
+```
+
+5.  http://127.0.0.1:5000/ にアクセスする
 
 ## 使用画面のイメージ
 画像全体での分類結果 <br>
