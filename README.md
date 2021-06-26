@@ -44,6 +44,6 @@ python run.py
 
 ## 使用画面のイメージ
 画像全体での分類結果 <br>
-<img src="" width=600><br>
+<img src="https://user-images.githubusercontent.com/64642177/123520007-7f83cc00-d6e9-11eb-836a-aacd918494d2.png" width=600><br>
 Cropした部分での分類結果 <br>
-<img src="" width=600><br>
+<img src="https://user-images.githubusercontent.com/64642177/123520008-84488000-d6e9-11eb-877c-94aa237aad17.png" width=600><br>
