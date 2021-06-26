@@ -7,7 +7,6 @@ type PageProps = {
 };
 
 type PageState = {
-  isShow: boolean,
 };
 
 class App extends React.PureComponent<PageProps, PageState> {

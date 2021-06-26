@@ -6,3 +6,4 @@ sample.png
 
 # cache
 __pycache__/
+__snapshots__/
