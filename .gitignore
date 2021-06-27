@@ -7,3 +7,6 @@ sample.png
 # cache
 __pycache__/
 __snapshots__/
+
+# config
+selenium/test_config.json
