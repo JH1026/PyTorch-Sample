@@ -9,4 +9,4 @@ __pycache__/
 __snapshots__/
 
 # config
-/selenium/test_config.json
+# /selenium/test_config.json
