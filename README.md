@@ -8,7 +8,7 @@
 ## 使用技術
 
 * __フロントエンド__
-　* __typescript 4.3.2__ 
+  * __typescript 4.3.2__ 
   * __React.js 17.0.2__
   * __material-ui/core 4.11.4__
   * __eslint 7.28.0__
