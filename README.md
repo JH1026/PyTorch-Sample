@@ -5,7 +5,7 @@
 This App classifies uploaded images by trained model (resnet50). <br>
 It is possible to classify only the trimmed image.<br>
 
-## 使用技術
+## Techniques
 
 * __Frontend__
   * __typescript 4.3.2__ 
