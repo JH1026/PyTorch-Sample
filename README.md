@@ -1,9 +1,4 @@
-# PyTorch Test
-
-## Overview
-
-This App classifies uploaded images by trained model (resnet50). <br>
-It is possible to classify only the trimmed image.<br>
+# PyTorch Sample
 
 ## Techniques
 
